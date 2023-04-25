@@ -31,9 +31,9 @@ https://user-images.githubusercontent.com/13283837/217905601-6e1ff237-5275-4deb-
 
 ![image-20230210012334145](https://postimg.aliavv.com/picgo/202302100123254.png)
 
-### 4. 复制本项目下的 event.js 的源码内容，并粘贴到 Aircode 当中
+### 4. 复制本项目下的 chat.js 的源码内容，并粘贴到 Aircode 当中
 
-访问[ChatGPT-Feishu/event.js at master · bestony/ChatGPT-Feishu (github.com)](https://github.com/bestony/ChatGPT-Feishu/blob/master/event.js)，复制代码
+访问[ChatGPT-Feishu/chat.js at master · abusizhishen/ChatGPT-Feishu (github.com)](https://github.com/abusizhishen/ChatGPT-Feishu/blob/master/chat.js)，复制代码
 
 ![image-20230210012555571](https://postimg.aliavv.com/picgo/202302100125750.png)
 
